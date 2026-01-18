@@ -20,7 +20,7 @@ This dashboard provides an interactive interface to explore and analyze Spotify 
 ## 🔽 Download the Dashboard / Project Files
 You can download the Spotify dashboard project here:  
 
-👉 [Download Spotify Dashboard.zip](https://github.com/yourusername/spotify-dashboard)  
+👉 [Download Spotify Dashboard.zip]https://github.com/khatiekta/spotify.git  
 
 ⚠️ **Note:** GitHub does not support previewing live dashboards or `.pbix` / `.zip` files directly.  
 Please click the download link and select **“View Raw”** to save the file to your computer.
