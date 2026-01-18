@@ -12,7 +12,7 @@ This dashboard provides an interactive interface to explore and analyze Spotify 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](link-to-your-dashboard-screenshot.png)  
+![Dashboard Preview]Annotation 2025-12-28 222846.pbix.jpg 
 *Note: GitHub cannot preview live Spotify features directly.*
 
 ---
